@@ -242,7 +242,7 @@ shareButton.addEventListener('click', event => {
 		navigator.share({
 		  title: 'Tic-Tac-Toe game',
 		  text: 'Check out this Tic-Tac-Toe game, its cool',
-		  url: 'https://tictactoeegame.netlify.app'
+		  url: 'https://tictactoe09.netlify.app/'
 		})
 	}
 });
